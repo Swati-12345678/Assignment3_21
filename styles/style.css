@@ -3,12 +3,13 @@ p {
   }
 
 p, li, h1 { 
-    color: black; 
+    color:green; 
     }
 
 html { 
         font-size: 15px; /* px means "pixels": the base font size is now 10 pixels high */ 
         font-family: "Open Sans", sans-serif; 
+        font-weight: bold;
         }
 
 h1 { 
@@ -23,7 +24,7 @@ p, li {
             }
 
             body{
-                background: url("../images/pexels-photo-268415.jpeg");
+                background: url("../images/RI.jpg");
                 background-repeat: no-repeat;
                 background-size: cover;
             }
@@ -38,3 +39,5 @@ p, li {
                         display: block; 
                         margin: 0 auto; 
                         }
+
+            
